@@ -1,9 +1,12 @@
 import React from 'react'
+import Announcement from '../components/Announcement'
+import NavBar from '../components/NavBar'
 
 const Home = () => {
   return (
     <div>
-      {/* home page */}
+      <Announcement/>
+      <NavBar/>
     </div>
   )
 }

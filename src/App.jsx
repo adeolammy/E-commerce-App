@@ -1,10 +1,10 @@
-import NavBar from "./components/NavBar";
+// import NavBar from "./components/NavBar";
 import Home from "./Pages/home";
 
 
 const App = () => {
   return <div>
-    <NavBar/> 
+    {/* <NavBar/>  */}
     <Home/>
   </div>;
 };
