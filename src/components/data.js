@@ -50,6 +50,57 @@ export const categories = [
         
     },
   
-
-
 ]
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://assets.stickpng.com/thumbs/5c62c1ace4b8dd029ff25b14.png",
+      
+        
+    },
+    {
+        id: 2,
+        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bed6.png",
+       
+        
+    },
+    {
+        id: 3,
+        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43beeb.png",
+       
+        
+    },
+    {
+        id: 4,
+        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bf83.png",
+        
+        
+    },
+    {
+        id: 5,
+        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bedf.png",
+      
+        
+    },
+    {
+        id: 6,
+        img: "https://assets.stickpng.com/thumbs/5c4dd58e4f848b02250ff865.png",
+       
+        
+    },
+    {
+        id: 7,
+        img: "https://assets.stickpng.com/thumbs/5c62c1b9e4b8dd029ff25b16.png",
+       
+        
+    },
+    {
+        id: 8,
+        img: "https://assets.stickpng.com/thumbs/5c4dd5824f848b02250ff863.png",
+        
+        
+    },
+  
+]
+
+
