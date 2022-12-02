@@ -54,49 +54,49 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://assets.stickpng.com/thumbs/5c62c1ace4b8dd029ff25b14.png",
+        img: "https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg?auto=compress&cs=tinysrgb&w=400",
       
         
     },
     {
         id: 2,
-        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bed6.png",
+        img: "https://images.pexels.com/photos/1502216/pexels-photo-1502216.jpeg?auto=compress&cs=tinysrgb&w=400",
        
         
     },
     {
         id: 3,
-        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43beeb.png",
+        img: "https://images.pexels.com/photos/934063/pexels-photo-934063.jpeg?auto=compress&cs=tinysrgb&w=400",
        
         
     },
     {
         id: 4,
-        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bf83.png",
+        img: "https://images.pexels.com/photos/934069/pexels-photo-934069.jpeg?auto=compress&cs=tinysrgb&w=400",
         
         
     },
     {
         id: 5,
-        img: "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bedf.png",
+        img: "https://images.pexels.com/photos/2850487/pexels-photo-2850487.jpeg?auto=compress&cs=tinysrgb&w=400",
       
         
     },
     {
         id: 6,
-        img: "https://assets.stickpng.com/thumbs/5c4dd58e4f848b02250ff865.png",
+        img: "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=400",
        
         
     },
     {
         id: 7,
-        img: "https://assets.stickpng.com/thumbs/5c62c1b9e4b8dd029ff25b16.png",
+        img: "https://images.pexels.com/photos/2081332/pexels-photo-2081332.jpeg?auto=compress&cs=tinysrgb&w=400",
        
         
     },
     {
         id: 8,
-        img: "https://assets.stickpng.com/thumbs/5c4dd5824f848b02250ff863.png",
+        img: "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=400",
         
         
     },

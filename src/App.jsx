@@ -1,11 +1,14 @@
-// import NavBar from "./components/NavBar";
 import Home from "./Pages/home";
+import ProductList from "./Pages/ProductList";
+import Product from "./Pages/Product";
 
 
 const App = () => {
   return <div>
-    {/* <NavBar/>  */}
-    <Home/>
+    
+    {/* <Home/> */}
+    {/* <ProductList/> */}
+    <Product/>
   </div>;
 };
 

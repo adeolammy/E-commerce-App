@@ -8,6 +8,8 @@ const Left =styled.div`
 flex:1;
 display:flex;
 padding:20px;
+flex-direction:column;
+padding:20px;
 `;
 
 const Logo = styled.h1`
@@ -83,9 +85,7 @@ const Footer = () => {
         <Left>
             <Logo>OLAMMY.</Logo>
             <Desc>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum perspiciatis veniam sapiente adipisci aliquam nemo maxime autem debitis! At molestias,
-                expedita fuga dolorem facilis itaque ducimus corporis, sapiente tempora, illum sed enim veritatis consequatur ea voluptatum. Deserunt 
-                consectetur a asperiores reprehenderit labore ipsum nam placeat adipisci, corporis odio iure repellat quia iusto quis aliquam molestias 
-                natus error neque ratione accusamus. 
+                expedita fuga dolorem facilis itaque. 
             </Desc>
             <SocialContainer>
               <SocialIcon color="3B5999">
@@ -100,11 +100,11 @@ const Footer = () => {
                 <Twitter/>
               </SocialIcon>
 
-              <SocialIcon color="C453DE">
+              <SocialIcon color="E4405F">
                 <Pinterest/>
               </SocialIcon>
 
-              <SocialIcon color="BD453F">
+              <SocialIcon color="43ff64d9">
                 <WhatsApp/>
               </SocialIcon>
             </SocialContainer>
@@ -113,17 +113,18 @@ const Footer = () => {
         <Center>
           <Title>Useful Links</Title>
           <List>
-          </List>
-        
+                 
             <ListItem>Home</ListItem>
             <ListItem>Cart</ListItem>
             <ListItem>Men Fashion</ListItem>
             <ListItem>Women Fashion</ListItem>
+            <ListItem>Children Fashion</ListItem>
             <ListItem>Accessories</ListItem>
             <ListItem>My Account</ListItem>
             <ListItem>Order Tracking</ListItem>
             <ListItem>Wishlist</ListItem>
             <ListItem>Terms</ListItem>
+        </List>
       </Center>
         <Right>
           <Title>Contact</Title>
