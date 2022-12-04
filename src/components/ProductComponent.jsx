@@ -46,7 +46,7 @@ position:absolute;
 `;
 
 const Image = styled.img`
-height:75%;
+height:65%;
 z-index:2;
 `;
 

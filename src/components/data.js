@@ -54,49 +54,50 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/dress/31614-8-dress-picture-thumb.png",
       
         
     },
     {
         id: 2,
-        img: "https://images.pexels.com/photos/1502216/pexels-photo-1502216.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/suit/9-suit-png-image-thumb.png",
        
         
     },
     {
         id: 3,
-        img: "https://images.pexels.com/photos/934063/pexels-photo-934063.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/tshirt/4-white-t-shirt-png-image-thumb.png",
        
         
     },
     {
         id: 4,
-        img: "https://images.pexels.com/photos/934069/pexels-photo-934069.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/jeans/6-jeans-png-image-thumb.png",
         
         
     },
     {
         id: 5,
-        img: "https://images.pexels.com/photos/2850487/pexels-photo-2850487.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/cap/2-baseball-cap-png-image-thumb.png",
       
         
     },
     {
         id: 6,
-        img: "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/shoes/21849-6-dock-shoes-thumb.png",
        
         
     },
     {
         id: 7,
-        img: "https://images.pexels.com/photos/2081332/pexels-photo-2081332.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/suit/2-suit-png-image-thumb.png",
        
         
     },
     {
         id: 8,
-        img: "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=400",
+        img: "https://freepngimg.com/thumb/dress%20shirt/4-black-dress-shirt-png-image-thumb.png",
+       
         
         
     },
